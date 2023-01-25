@@ -14,7 +14,7 @@ GEM
     thor (0.14.6)
 
 PLATFORMS
-  arm64-darwin-21
+  ruby
 
 DEPENDENCIES
   githug
